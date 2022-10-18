@@ -40,6 +40,7 @@
 #include <cstdarg>
 #include <cstdio>
 #include <fcntl.h>
+#include <cstring>
 #include <iostream>
 #include <string>
 #include <syslog.h>
